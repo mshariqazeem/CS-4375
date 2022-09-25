@@ -8,7 +8,7 @@ Click [here](Overview of ML.pdf) to see the document.
 ## Assignment 1 - Data Exploration
 **Description:** In this assignment, I used multiple functions to explore different statistical measures about the given data.<br> 
 Click [here](Source.cpp) to look at the code.<br>
-Click [here](Data Exploration.pdf) to see the discussion about those measures.
+Click [here](Data_Exploration.pdf) to see the discussion about those measures.
 
 ## Assignment 2 - Linear Models
 **Description:** In this assignment, I created Regression and Classification models on two different data sets and evaluated the results with the actual values.<br>
