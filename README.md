@@ -3,7 +3,7 @@ This is a repository for class CS 4375: Introduction to Machine Learning
 
 ## Assignment 0 - Getting Started
 **Description:** In this assignment, I gave an overview of ML.<br>
-Click [here](Overview of ML.pdf) to see the document.
+Click [here](Overview_of_ML.pdf) to see the document.
 
 ## Assignment 1 - Data Exploration
 **Description:** In this assignment, I used multiple functions to explore different statistical measures about the given data.<br> 
