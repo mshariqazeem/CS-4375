@@ -15,3 +15,10 @@ Click [here](Data_Exploration.pdf) to see the discussion about those measures.
 Click [here](Regression.pdf) to look at the Linear Regresion document.<br>
 Click [here](Classification.pdf) to look at the Logistic Regresion and Naive Bayes document.
 
+## Assignment 3 - ML from Scratch
+**Description:** In this assignment, I created two C++ Programs.<br>
+First Program performs Logistic Regression on the titanic data set.<br>
+Second Program performs Naive Bayes on the titanic data set.<br>
+Click [here](LogisticRegression.cpp) to look at the first program.<br>
+Click [here](NaiveBayes.cpp) to look at the seconf program.<br>
+Click [here](ML_from_Scratch_Report.pdf) to look at a document discussing both models and other aspects of Machine Learning.
