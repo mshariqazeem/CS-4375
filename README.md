@@ -20,5 +20,5 @@ Click [here](Classification.pdf) to look at the Logistic Regresion and Naive Bay
 First Program performs Logistic Regression on the titanic data set.<br>
 Second Program performs Naive Bayes on the titanic data set.<br>
 Click [here](LogisticRegression.cpp) to look at the first program.<br>
-Click [here](NaiveBayes.cpp) to look at the seconf program.<br>
+Click [here](NaiveBayes.cpp) to look at the second program.<br>
 Click [here](ML_from_Scratch_Report.pdf) to look at a document discussing both models and other aspects of Machine Learning.
