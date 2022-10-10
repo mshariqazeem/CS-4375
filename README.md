@@ -22,3 +22,10 @@ Second Program performs Naive Bayes on the titanic data set.<br>
 Click [here](LogisticRegression.cpp) to look at the first program.<br>
 Click [here](NaiveBayes.cpp) to look at the second program.<br>
 Click [here](ML_from_Scratch_Report.pdf) to look at a document discussing both models and other aspects of Machine Learning.
+
+## Assignment 4 - Similarity
+**Description:** In this assignment, my group members and I created four notebooks, exploring different linear models, similarity algorithms, and clustering methods.<br>
+Click [here](Similarity_Reduction.pdf) to look at the Regression Notebook.<br>
+Click [here](Classification2.pdf) to look at the Classification Notebook.<br>
+Click [here](Clustering.pdf) to look at the Clustering Notebook.<br>
+Click [here](Dimensionality_Reduction.pdf) to look at the Dimensionality Reduction Notebook.
