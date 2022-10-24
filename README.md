@@ -29,3 +29,10 @@ Click [here](Similarity_Reduction.pdf) to look at the Regression Notebook.<br>
 Click [here](Classification2.pdf) to look at the Classification Notebook.<br>
 Click [here](Clustering.pdf) to look at the Clustering Notebook.<br>
 Click [here](Dimensionality_Reduction.pdf) to look at the Dimensionality Reduction Notebook.
+
+## Assignment 5 - Kernel and Ensemble Methods
+**Description:** In this assignment, we created 3 notebooks and a narrative document which discusses the algorithms used in the notebooks. Notebook 1 explores SVM for Regression; Notebook 2 explores SVM for Classification. Notebook 3 explores different ensemble methods.<br>
+Click [here](Regression2.pdf) to look at the Notebook 1.<br>
+Click [here](Classification3.pdf) to look at the Notebook 2.<br>
+Click [here](Ensemble_Techniques.pdf) to look at the Notebook 3.<br>
+Click [here](Kernel_and_Ensemble_Metthods.pdf) to look at the Narrative document.<br>
