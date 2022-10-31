@@ -36,3 +36,8 @@ Click [here](Regression2.pdf) to look at the Notebook 1.<br>
 Click [here](Classification3.pdf) to look at the Notebook 2.<br>
 Click [here](Ensemble_Techniques.pdf) to look at the Notebook 3.<br>
 Click [here](Kernel_and_Ensemble_Metthods.pdf) to look at the Narrative document.<br>
+
+## Assignment 6 - ML with sklearn
+**Description:** In this assignment, I explored sklearn libraries to perform logistic regression, decision tree, and neural network on the given data set.<br>
+Click [here](Sklearn.pdf) to look at the sklearn document.<br>
+Click [here](Auto.csv) to look at the data.<br>
