@@ -41,3 +41,7 @@ Click [here](Kernel_and_Ensemble_Metthods.pdf) to look at the Narrative document
 **Description:** In this assignment, I explored sklearn libraries to perform logistic regression, decision tree, and neural network on the given data set.<br>
 Click [here](Sklearn.pdf) to look at the sklearn document.<br>
 Click [here](Auto.csv) to look at the data.<br>
+
+## Assignment 7 - Image Classification
+**Description:** In this assignment, I performed image classification on a dataset taken from Kaggle, using sequential, CNN, and transfer learning approaches.<br>
+Click [here](Image_Classification.pdf) to look at the Image Classification Notebook.<br>
